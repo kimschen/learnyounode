@@ -7,7 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "bl": "^1.2.2"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",
